@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45292656188",
+    "project_id": "tiktok-with-getx",
+    "storage_bucket": "tiktok-with-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45292656188:android:24245e12446507f5d3d539",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45292656188-1m3q87d8foe522r69t2ksj1smlp9elkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JyTX5XQQihkG5WjgYhP-rg-qpeYDPF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45292656188-1m3q87d8foe522r69t2ksj1smlp9elkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
